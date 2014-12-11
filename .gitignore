@@ -1,0 +1,6 @@
+.DS_STORE
+/build/
+/www/
+/platforms/ios/www/
+/platforms/ios/Test.xcodeproj/project.xcworkspace/xcuserdata/
+
